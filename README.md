@@ -2,6 +2,8 @@
 
 #### I’m a junior front-end developer and want to become a full-stack.
 
+<img src="https://github-readme-stats.vercel.app/api?username=a1ire24&theme=algolia" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1ire24&layout=compact&theme=algolia" height="180" />
+
 To gets in touch:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-f0f0f0?&style=for-the-badge&logo=linkedin&logoColor=white&color=0e76a8)](https://www.linkedin.com/in/alireza-haji-hosseini/)
