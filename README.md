@@ -3,7 +3,7 @@
 #### I’m a medior front-end developer and want to become a full-stack.
 #### 📖 I'm currently learning ReactJS and Redux
 
-<img src="https://github-readme-stats.vercel.app/api?username=a1ire24&theme=algolia" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1ire24&layout=compact&theme=algolia" height="180" />
+
 
 To gets in touch:
 
