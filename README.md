@@ -1,7 +1,8 @@
-## Hi there, I'm Alireza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" height="35" >
+## Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" height="35" >
 
-#### I’m a medior front-end developer and want to become a full-stack.
-#### 📖 I'm currently learning ReactJS and Redux
+#### Hello! I’m Alireza Haji Hosseini, a Full-stack developer with 3 years of experience in web development.
+ I am also quite passionate about learning new things.
+#### 📖 I'm currently learning python and django.
 
 
 
