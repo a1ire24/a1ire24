@@ -1,8 +1,7 @@
 ## Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" height="35" >
 
-#### Hello! I’m Alireza Haji Hosseini, a Full-stack developer with more than 4 years of experience in web development.
+#### Hello! I’m Alireza Haji Hosseini, a Full-stack developer with more than 6 years of experience in web development.
  I am also quite passionate about learning new things.
-#### 📖 I'm currently learning advance php and laravel.
 
 
 
